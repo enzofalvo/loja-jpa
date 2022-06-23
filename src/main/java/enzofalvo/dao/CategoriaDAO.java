@@ -1,6 +1,5 @@
 package enzofalvo.dao;
 
-import enzofalvo.Produto;
 import enzofalvo.modelo.Categoria;
 
 import javax.persistence.EntityManager;

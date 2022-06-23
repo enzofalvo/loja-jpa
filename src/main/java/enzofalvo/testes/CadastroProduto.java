@@ -1,14 +1,12 @@
 package enzofalvo.testes;
 
-import enzofalvo.Produto;
+import enzofalvo.modelo.Produto;
 import enzofalvo.dao.CategoriaDAO;
 import enzofalvo.dao.ProdutoDAO;
 import enzofalvo.modelo.Categoria;
 import enzofalvo.util.JPAUtil;
 
 import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
 import java.math.BigDecimal;
 import java.util.List;
 

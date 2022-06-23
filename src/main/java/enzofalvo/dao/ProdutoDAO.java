@@ -1,6 +1,6 @@
 package enzofalvo.dao;
 
-import enzofalvo.Produto;
+import enzofalvo.modelo.Produto;
 
 import javax.persistence.EntityManager;
 import java.math.BigDecimal;

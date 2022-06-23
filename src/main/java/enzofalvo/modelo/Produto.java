@@ -1,4 +1,4 @@
-package enzofalvo;
+package enzofalvo.modelo;
 
 
 import enzofalvo.modelo.Categoria;
